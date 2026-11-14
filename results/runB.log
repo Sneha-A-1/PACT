@@ -1,0 +1,275 @@
+07:26:08 main ferment PACT 1 {} 0.908 0.57 0.995
+07:26:08 main ferment Split CP (static) 1 {} 0.855 0.0 0.993
+07:26:09 main ferment APS (static) 1 {} 0.894 0.0 0.993
+07:26:36 main ferment ACI 1 {} 0.899 0.574 0.997
+07:27:04 main ferment NexCP 1 {} 0.9 0.574 0.997
+07:27:29 main ferment Conformal P-control 1 {} 0.901 0.574 0.997
+07:27:51 main ferment Uncertainty sampling 1 {} 0.885 0.492 0.998
+07:28:16 main ferment Random audit 1 {} 0.892 0.574 0.997
+07:28:57 main ferment Full feedback (oracle) 1 {} 0.876 1.0 1.0
+07:29:22 main ferment PACT 2 {} 0.907 0.549 0.998
+07:29:22 main ferment Split CP (static) 2 {} 0.863 0.0 0.995
+07:29:23 main ferment APS (static) 2 {} 0.91 0.0 0.995
+07:29:48 main ferment ACI 2 {} 0.901 0.555 0.998
+07:30:13 main ferment NexCP 2 {} 0.902 0.555 0.998
+07:30:37 main ferment Conformal P-control 2 {} 0.9 0.555 0.998
+07:31:05 main ferment Uncertainty sampling 2 {} 0.89 0.491 0.998
+07:31:34 main ferment Random audit 2 {} 0.893 0.555 0.998
+07:32:14 main ferment Full feedback (oracle) 2 {} 0.877 1.0 1.0
+07:32:37 main ferment PACT 3 {} 0.914 0.496 0.997
+07:32:38 main ferment Split CP (static) 3 {} 0.903 0.0 0.995
+07:32:39 main ferment APS (static) 3 {} 0.88 0.0 0.995
+07:33:02 main ferment ACI 3 {} 0.903 0.495 0.998
+07:33:26 main ferment NexCP 3 {} 0.902 0.495 0.998
+07:33:49 main ferment Conformal P-control 3 {} 0.9 0.495 0.998
+07:34:05 main ferment Uncertainty sampling 3 {} 0.891 0.332 1.0
+07:34:28 main ferment Random audit 3 {} 0.893 0.495 0.998
+07:35:14 main ferment Full feedback (oracle) 3 {} 0.878 1.0 1.0
+07:35:39 main ferment PACT 4 {} 0.907 0.571 0.998
+07:35:39 main ferment Split CP (static) 4 {} 0.893 0.0 0.994
+07:35:40 main ferment APS (static) 4 {} 0.924 0.0 0.994
+07:36:16 main ferment ACI 4 {} 0.899 0.572 0.998
+07:36:59 main ferment NexCP 4 {} 0.903 0.572 0.998
+07:37:37 main ferment Conformal P-control 4 {} 0.901 0.572 0.998
+07:38:04 main ferment Uncertainty sampling 4 {} 0.893 0.492 0.999
+07:38:30 main ferment Random audit 4 {} 0.899 0.572 0.998
+07:39:13 main ferment Full feedback (oracle) 4 {} 0.882 1.0 1.0
+07:39:22 main ferment PACT 5 {} 0.921 0.141 0.997
+07:39:22 main ferment Split CP (static) 5 {} 0.888 0.0 0.994
+07:39:23 main ferment APS (static) 5 {} 0.852 0.0 0.994
+07:39:31 main ferment ACI 5 {} 0.905 0.14 0.995
+07:39:38 main ferment NexCP 5 {} 0.91 0.14 0.995
+07:39:46 main ferment Conformal P-control 5 {} 0.898 0.14 0.995
+07:39:52 main ferment Uncertainty sampling 5 {} 0.889 0.121 0.999
+07:39:59 main ferment Random audit 5 {} 0.901 0.14 0.995
+07:40:41 main ferment Full feedback (oracle) 5 {} 0.877 1.0 1.0
+07:41:07 ablation ferment PACT 1 {} 0.908 0.57 0.995
+07:41:24 ablation ferment w/o propensity weighting 1 {} 0.947 0.379 0.997
+07:41:26 ablation ferment w/o random audits 1 {} 0.99 0.013 0.997
+07:41:27 ablation ferment w/o model refresh 1 {} 0.906 0.571 0.997
+07:41:38 ablation ferment w/o recalibration 1 {} 0.823 0.222 0.998
+07:42:00 ablation ferment w/o recency window 1 {} 0.931 0.491 0.997
+07:42:24 ablation ferment w/o coverage-debt controller 1 {} 0.891 0.56 0.996
+07:42:51 ablation ferment w/o targeted escalation 1 {} 0.892 0.574 0.997
+07:54:00 ablation ferment PACT 2 {} 0.907 0.549 0.998
+07:54:16 ablation ferment w/o propensity weighting 2 {} 0.952 0.349 0.998
+07:54:17 ablation ferment w/o random audits 2 {} 0.987 0.014 0.997
+07:54:18 ablation ferment w/o model refresh 2 {} 0.904 0.414 0.999
+07:54:28 ablation ferment w/o recalibration 2 {} 0.825 0.212 0.998
+07:54:53 ablation ferment w/o recency window 2 {} 0.918 0.486 0.998
+07:55:21 ablation ferment w/o coverage-debt controller 2 {} 0.885 0.564 0.998
+07:55:47 ablation ferment w/o targeted escalation 2 {} 0.893 0.555 0.998
+07:56:11 ablation ferment PACT 3 {} 0.914 0.496 0.997
+07:56:21 ablation ferment w/o propensity weighting 3 {} 0.968 0.208 0.998
+07:56:23 ablation ferment w/o random audits 3 {} 0.989 0.018 0.996
+07:56:25 ablation ferment w/o model refresh 3 {} 0.903 0.315 0.999
+07:56:33 ablation ferment w/o recalibration 3 {} 0.881 0.163 0.998
+07:56:56 ablation ferment w/o recency window 3 {} 0.917 0.494 0.997
+07:57:21 ablation ferment w/o coverage-debt controller 3 {} 0.897 0.495 0.997
+07:57:45 ablation ferment w/o targeted escalation 3 {} 0.893 0.495 0.998
+07:57:46 ablation home PACT 1 {} 0.858 0.406 0.891
+07:57:47 ablation home w/o propensity weighting 1 {} 0.889 0.426 0.918
+07:57:47 ablation home w/o random audits 1 {} 0.716 0.095 0.727
+07:57:47 ablation home w/o model refresh 1 {} 0.84 0.606 0.891
+07:57:47 ablation home w/o recalibration 1 {} 0.753 0.125 0.774
+07:57:48 ablation home w/o recency window 1 {} 0.859 0.42 0.893
+07:57:49 ablation home w/o coverage-debt controller 1 {} 0.873 0.405 0.91
+07:57:50 ablation home w/o targeted escalation 1 {} 0.902 0.419 0.856
+07:57:51 ablation home PACT 2 {} 0.885 0.426 0.905
+07:57:51 ablation home w/o propensity weighting 2 {} 0.856 0.394 0.896
+07:57:52 ablation home w/o random audits 2 {} 0.788 0.19 0.803
+07:57:52 ablation home w/o model refresh 2 {} 0.912 0.613 0.946
+07:57:52 ablation home w/o recalibration 2 {} 0.853 0.356 0.888
+07:57:53 ablation home w/o recency window 2 {} 0.895 0.453 0.917
+07:57:54 ablation home w/o coverage-debt controller 2 {} 0.89 0.422 0.923
+07:57:55 ablation home w/o targeted escalation 2 {} 0.866 0.428 0.843
+07:57:56 ablation home PACT 3 {} 0.893 0.558 0.914
+07:57:57 ablation home w/o propensity weighting 3 {} 0.867 0.46 0.896
+07:57:57 ablation home w/o random audits 3 {} 0.68 0.075 0.686
+07:57:57 ablation home w/o model refresh 3 {} 0.901 0.765 0.932
+07:57:58 ablation home w/o recalibration 3 {} 0.693 0.1 0.717
+07:57:59 ablation home w/o recency window 3 {} 0.873 0.473 0.898
+07:57:59 ablation home w/o coverage-debt controller 3 {} 0.856 0.36 0.884
+07:58:01 ablation home w/o targeted escalation 3 {} 0.882 0.528 0.889
+07:58:01 ablation water PACT 1 {} 0.873 0.461 0.662
+07:58:01 ablation water w/o propensity weighting 1 {} 0.81 0.214 0.421
+07:58:01 ablation water w/o random audits 1 {} 0.82 0.075 0.334
+07:58:01 ablation water w/o model refresh 1 {} 0.779 0.376 0.475
+07:58:01 ablation water w/o recalibration 1 {} 0.818 0.109 0.7
+07:58:01 ablation water w/o recency window 1 {} 0.873 0.461 0.662
+07:58:01 ablation water w/o coverage-debt controller 1 {} 0.897 0.46 0.641
+07:58:01 ablation water w/o targeted escalation 1 {} 0.911 0.475 0.844
+07:58:02 ablation water PACT 2 {} 0.894 0.448 0.832
+07:58:02 ablation water w/o propensity weighting 2 {} 0.836 0.287 0.499
+07:58:02 ablation water w/o random audits 2 {} 0.849 0.078 0.255
+07:58:02 ablation water w/o model refresh 2 {} 0.89 0.819 0.876
+07:58:02 ablation water w/o recalibration 2 {} 0.833 0.1 0.433
+07:58:02 ablation water w/o recency window 2 {} 0.894 0.448 0.832
+07:58:02 ablation water w/o coverage-debt controller 2 {} 0.905 0.362 0.819
+07:58:02 ablation water w/o targeted escalation 2 {} 0.881 0.451 0.813
+07:58:02 ablation water PACT 3 {} 0.822 0.338 0.694
+07:58:03 ablation water w/o propensity weighting 3 {} 0.823 0.185 0.57
+07:58:03 ablation water w/o random audits 3 {} 0.856 0.093 0.297
+07:58:03 ablation water w/o model refresh 3 {} 0.769 0.397 0.536
+07:58:03 ablation water w/o recalibration 3 {} 0.818 0.088 0.465
+07:58:03 ablation water w/o recency window 3 {} 0.822 0.338 0.694
+07:58:03 ablation water w/o coverage-debt controller 3 {} 0.83 0.362 0.67
+07:58:03 ablation water w/o targeted escalation 3 {} 0.867 0.317 0.757
+07:58:05 robust home PACT 1 {'condition': 'clean'} 0.858 0.406 0.891
+07:58:05 robust home Split CP (static) 1 {'condition': 'clean'} 0.656 0.0 0.614
+07:58:05 robust home NexCP 1 {'condition': 'clean'} 0.919 0.419 0.856
+07:58:06 robust home Random audit 1 {'condition': 'clean'} 0.902 0.419 0.856
+07:58:07 robust home PACT 1 {'condition': 'noise 0.1'} 0.858 0.478 0.894
+07:58:07 robust home Split CP (static) 1 {'condition': 'noise 0.1'} 0.592 0.0 0.53
+07:58:08 robust home NexCP 1 {'condition': 'noise 0.1'} 0.904 0.496 0.887
+07:58:09 robust home Random audit 1 {'condition': 'noise 0.1'} 0.892 0.496 0.887
+07:58:10 robust home PACT 1 {'condition': 'noise 0.3'} 0.909 0.531 0.939
+07:58:10 robust home Split CP (static) 1 {'condition': 'noise 0.3'} 0.471 0.0 0.406
+07:58:12 robust home NexCP 1 {'condition': 'noise 0.3'} 0.915 0.548 0.896
+07:58:13 robust home Random audit 1 {'condition': 'noise 0.3'} 0.901 0.548 0.896
+07:58:14 robust home PACT 1 {'condition': 'sensor dropout'} 0.888 0.469 0.918
+07:58:15 robust home Split CP (static) 1 {'condition': 'sensor dropout'} 0.646 0.0 0.607
+07:58:16 robust home NexCP 1 {'condition': 'sensor dropout'} 0.913 0.487 0.869
+07:58:17 robust home Random audit 1 {'condition': 'sensor dropout'} 0.909 0.487 0.869
+07:58:18 robust home PACT 1 {'condition': 'evasion 0.5'} 0.875 0.516 0.919
+07:58:18 robust home Split CP (static) 1 {'condition': 'evasion 0.5'} 0.537 0.0 0.502
+07:58:19 robust home NexCP 1 {'condition': 'evasion 0.5'} 0.907 0.534 0.875
+07:58:20 robust home Random audit 1 {'condition': 'evasion 0.5'} 0.898 0.534 0.875
+07:58:21 robust home PACT 1 {'condition': 'evasion 1.0'} 0.911 0.538 0.945
+07:58:21 robust home Split CP (static) 1 {'condition': 'evasion 1.0'} 0.53 0.0 0.491
+07:58:22 robust home NexCP 1 {'condition': 'evasion 1.0'} 0.909 0.551 0.877
+07:58:23 robust home Random audit 1 {'condition': 'evasion 1.0'} 0.903 0.551 0.877
+07:58:24 robust home PACT 2 {'condition': 'clean'} 0.885 0.426 0.905
+07:58:24 robust home Split CP (static) 2 {'condition': 'clean'} 0.815 0.0 0.656
+07:58:25 robust home NexCP 2 {'condition': 'clean'} 0.877 0.428 0.843
+07:58:26 robust home Random audit 2 {'condition': 'clean'} 0.866 0.428 0.843
+07:58:27 robust home PACT 2 {'condition': 'noise 0.1'} 0.875 0.388 0.898
+07:58:27 robust home Split CP (static) 2 {'condition': 'noise 0.1'} 0.817 0.0 0.596
+07:58:28 robust home NexCP 2 {'condition': 'noise 0.1'} 0.881 0.387 0.835
+07:58:29 robust home Random audit 2 {'condition': 'noise 0.1'} 0.867 0.387 0.835
+07:58:30 robust home PACT 2 {'condition': 'noise 0.3'} 0.9 0.471 0.93
+07:58:30 robust home Split CP (static) 2 {'condition': 'noise 0.3'} 0.728 0.0 0.456
+07:58:31 robust home NexCP 2 {'condition': 'noise 0.3'} 0.89 0.47 0.852
+07:58:32 robust home Random audit 2 {'condition': 'noise 0.3'} 0.872 0.47 0.852
+07:58:33 robust home PACT 2 {'condition': 'sensor dropout'} 0.898 0.485 0.934
+07:58:33 robust home Split CP (static) 2 {'condition': 'sensor dropout'} 0.811 0.0 0.637
+07:58:34 robust home NexCP 2 {'condition': 'sensor dropout'} 0.892 0.481 0.856
+07:58:35 robust home Random audit 2 {'condition': 'sensor dropout'} 0.879 0.481 0.856
+07:58:35 robust home PACT 2 {'condition': 'evasion 0.5'} 0.851 0.394 0.896
+07:58:36 robust home Split CP (static) 2 {'condition': 'evasion 0.5'} 0.667 0.0 0.526
+07:58:36 robust home NexCP 2 {'condition': 'evasion 0.5'} 0.914 0.393 0.83
+07:58:37 robust home Random audit 2 {'condition': 'evasion 0.5'} 0.906 0.393 0.83
+07:58:39 robust home PACT 2 {'condition': 'evasion 1.0'} 0.907 0.483 0.937
+07:58:39 robust home Split CP (static) 2 {'condition': 'evasion 1.0'} 0.654 0.0 0.506
+07:58:40 robust home NexCP 2 {'condition': 'evasion 1.0'} 0.91 0.479 0.848
+07:58:41 robust home Random audit 2 {'condition': 'evasion 1.0'} 0.904 0.479 0.848
+07:58:42 robust home PACT 3 {'condition': 'clean'} 0.893 0.558 0.914
+07:58:42 robust home Split CP (static) 3 {'condition': 'clean'} 0.639 0.0 0.601
+07:58:43 robust home NexCP 3 {'condition': 'clean'} 0.895 0.528 0.889
+07:58:45 robust home Random audit 3 {'condition': 'clean'} 0.882 0.528 0.889
+07:58:46 robust home PACT 3 {'condition': 'noise 0.1'} 0.926 0.597 0.942
+07:58:46 robust home Split CP (static) 3 {'condition': 'noise 0.1'} 0.567 0.0 0.534
+07:58:47 robust home NexCP 3 {'condition': 'noise 0.1'} 0.913 0.565 0.904
+07:58:49 robust home Random audit 3 {'condition': 'noise 0.1'} 0.888 0.565 0.904
+07:58:50 robust home PACT 3 {'condition': 'noise 0.3'} 0.9 0.595 0.923
+07:58:50 robust home Split CP (static) 3 {'condition': 'noise 0.3'} 0.433 0.0 0.419
+07:58:51 robust home NexCP 3 {'condition': 'noise 0.3'} 0.91 0.563 0.908
+07:58:52 robust home Random audit 3 {'condition': 'noise 0.3'} 0.889 0.563 0.908
+07:58:54 robust home PACT 3 {'condition': 'sensor dropout'} 0.885 0.536 0.908
+07:58:54 robust home Split CP (static) 3 {'condition': 'sensor dropout'} 0.616 0.0 0.585
+07:58:55 robust home NexCP 3 {'condition': 'sensor dropout'} 0.899 0.51 0.878
+07:58:56 robust home Random audit 3 {'condition': 'sensor dropout'} 0.888 0.51 0.878
+07:58:57 robust home PACT 3 {'condition': 'evasion 0.5'} 0.903 0.606 0.935
+07:58:57 robust home Split CP (static) 3 {'condition': 'evasion 0.5'} 0.502 0.0 0.475
+07:58:58 robust home NexCP 3 {'condition': 'evasion 0.5'} 0.905 0.578 0.883
+07:59:00 robust home Random audit 3 {'condition': 'evasion 0.5'} 0.892 0.578 0.883
+07:59:01 robust home PACT 3 {'condition': 'evasion 1.0'} 0.892 0.595 0.919
+07:59:01 robust home Split CP (static) 3 {'condition': 'evasion 1.0'} 0.49 0.0 0.465
+07:59:03 robust home NexCP 3 {'condition': 'evasion 1.0'} 0.899 0.563 0.874
+07:59:04 robust home Random audit 3 {'condition': 'evasion 1.0'} 0.881 0.563 0.874
+07:59:41 robust gas PACT 1 {'condition': 'clean'} 0.916 0.126 0.982
+07:59:43 robust gas Split CP (static) 1 {'condition': 'clean'} 0.236 0.0 0.478
+08:00:17 robust gas NexCP 1 {'condition': 'clean'} 0.912 0.129 0.922
+08:00:50 robust gas Random audit 1 {'condition': 'clean'} 0.895 0.129 0.922
+08:01:35 robust gas PACT 1 {'condition': 'noise 0.1'} 0.901 0.141 0.969
+08:01:37 robust gas Split CP (static) 1 {'condition': 'noise 0.1'} 0.107 0.0 0.428
+08:02:19 robust gas NexCP 1 {'condition': 'noise 0.1'} 0.9 0.145 0.895
+08:03:04 robust gas Random audit 1 {'condition': 'noise 0.1'} 0.885 0.145 0.895
+08:04:22 robust gas PACT 1 {'condition': 'noise 0.3'} 0.894 0.233 0.934
+08:04:23 robust gas Split CP (static) 1 {'condition': 'noise 0.3'} 0.057 0.0 0.432
+08:05:42 robust gas NexCP 1 {'condition': 'noise 0.3'} 0.897 0.238 0.854
+08:07:01 robust gas Random audit 1 {'condition': 'noise 0.3'} 0.882 0.238 0.854
+08:07:39 robust gas PACT 1 {'condition': 'sensor dropout'} 0.914 0.129 0.98
+08:07:40 robust gas Split CP (static) 1 {'condition': 'sensor dropout'} 0.227 0.0 0.475
+08:08:17 robust gas NexCP 1 {'condition': 'sensor dropout'} 0.911 0.132 0.914
+08:08:53 robust gas Random audit 1 {'condition': 'sensor dropout'} 0.892 0.132 0.914
+08:09:35 robust gas PACT 1 {'condition': 'evasion 0.5'} 0.904 0.135 0.97
+08:09:37 robust gas Split CP (static) 1 {'condition': 'evasion 0.5'} 0.174 0.0 0.394
+08:10:21 robust gas NexCP 1 {'condition': 'evasion 0.5'} 0.918 0.138 0.901
+08:11:07 robust gas Random audit 1 {'condition': 'evasion 0.5'} 0.907 0.138 0.901
+08:11:55 robust gas PACT 1 {'condition': 'evasion 1.0'} 0.909 0.15 0.974
+08:11:56 robust gas Split CP (static) 1 {'condition': 'evasion 1.0'} 0.171 0.0 0.368
+08:12:45 robust gas NexCP 1 {'condition': 'evasion 1.0'} 0.923 0.154 0.906
+08:13:35 robust gas Random audit 1 {'condition': 'evasion 1.0'} 0.907 0.154 0.906
+08:14:05 robust gas PACT 2 {'condition': 'clean'} 0.923 0.12 0.983
+08:14:06 robust gas Split CP (static) 2 {'condition': 'clean'} 0.166 0.0 0.456
+08:14:36 robust gas NexCP 2 {'condition': 'clean'} 0.896 0.116 0.907
+08:15:05 robust gas Random audit 2 {'condition': 'clean'} 0.875 0.116 0.907
+08:15:48 robust gas PACT 2 {'condition': 'noise 0.1'} 0.905 0.144 0.972
+08:15:50 robust gas Split CP (static) 2 {'condition': 'noise 0.1'} 0.124 0.0 0.455
+08:16:30 robust gas NexCP 2 {'condition': 'noise 0.1'} 0.899 0.139 0.899
+08:17:11 robust gas Random audit 2 {'condition': 'noise 0.1'} 0.875 0.139 0.899
+08:18:19 robust gas PACT 2 {'condition': 'noise 0.3'} 0.892 0.207 0.936
+08:18:21 robust gas Split CP (static) 2 {'condition': 'noise 0.3'} 0.06 0.0 0.445
+08:19:27 robust gas NexCP 2 {'condition': 'noise 0.3'} 0.904 0.202 0.856
+08:20:33 robust gas Random audit 2 {'condition': 'noise 0.3'} 0.885 0.202 0.856
+08:21:07 robust gas PACT 2 {'condition': 'sensor dropout'} 0.917 0.126 0.982
+08:21:08 robust gas Split CP (static) 2 {'condition': 'sensor dropout'} 0.158 0.0 0.454
+08:21:39 robust gas NexCP 2 {'condition': 'sensor dropout'} 0.897 0.121 0.907
+08:22:09 robust gas Random audit 2 {'condition': 'sensor dropout'} 0.873 0.121 0.907
+08:22:52 robust gas PACT 2 {'condition': 'evasion 0.5'} 0.92 0.139 0.973
+08:22:54 robust gas Split CP (static) 2 {'condition': 'evasion 0.5'} 0.121 0.0 0.373
+08:23:34 robust gas NexCP 2 {'condition': 'evasion 0.5'} 0.902 0.135 0.882
+08:24:19 robust gas Random audit 2 {'condition': 'evasion 0.5'} 0.884 0.135 0.882
+08:25:07 robust gas PACT 2 {'condition': 'evasion 1.0'} 0.905 0.138 0.968
+08:25:09 robust gas Split CP (static) 2 {'condition': 'evasion 1.0'} 0.117 0.0 0.358
+08:25:49 robust gas NexCP 2 {'condition': 'evasion 1.0'} 0.91 0.134 0.871
+08:26:29 robust gas Random audit 2 {'condition': 'evasion 1.0'} 0.882 0.134 0.871
+08:26:59 sensitivity gas PACT 1 {'param': 'eps', 'value': 0.01} 0.909 0.102 0.986
+08:27:32 sensitivity gas PACT 1 {'param': 'eps', 'value': 0.02} 0.902 0.119 0.983
+08:28:07 sensitivity gas PACT 1 {'param': 'eps', 'value': 0.05} 0.916 0.126 0.982
+08:28:58 sensitivity gas PACT 1 {'param': 'eps', 'value': 0.1} 0.921 0.181 0.989
+08:30:15 sensitivity gas PACT 1 {'param': 'eps', 'value': 0.2} 0.916 0.281 0.992
+08:30:55 sensitivity gas PACT 1 {'param': 'W', 'value': 100} 0.914 0.142 0.985
+08:31:29 sensitivity gas PACT 1 {'param': 'W', 'value': 300} 0.916 0.126 0.982
+08:32:09 sensitivity gas PACT 1 {'param': 'W', 'value': 1000} 0.905 0.14 0.985
+08:33:21 sensitivity gas PACT 1 {'param': 'R', 'value': 25} 0.913 0.136 0.991
+08:33:55 sensitivity gas PACT 1 {'param': 'R', 'value': 50} 0.916 0.126 0.982
+08:34:10 sensitivity gas PACT 1 {'param': 'R', 'value': 150} 0.904 0.137 0.962
+08:34:41 sensitivity gas PACT 1 {'param': 'alpha', 'value': 0.05} 0.96 0.117 0.985
+08:35:17 sensitivity gas PACT 1 {'param': 'alpha', 'value': 0.1} 0.916 0.126 0.982
+08:36:21 sensitivity gas PACT 1 {'param': 'alpha', 'value': 0.2} 0.814 0.227 0.994
+08:36:46 sensitivity gas PACT 2 {'param': 'eps', 'value': 0.01} 0.907 0.093 0.978
+08:37:14 sensitivity gas PACT 2 {'param': 'eps', 'value': 0.02} 0.907 0.106 0.975
+08:37:46 sensitivity gas PACT 2 {'param': 'eps', 'value': 0.05} 0.923 0.12 0.983
+08:38:35 sensitivity gas PACT 2 {'param': 'eps', 'value': 0.1} 0.917 0.174 0.984
+08:39:51 sensitivity gas PACT 2 {'param': 'eps', 'value': 0.2} 0.915 0.272 0.989
+08:40:32 sensitivity gas PACT 2 {'param': 'W', 'value': 100} 0.918 0.141 0.987
+08:41:04 sensitivity gas PACT 2 {'param': 'W', 'value': 300} 0.923 0.12 0.983
+08:41:41 sensitivity gas PACT 2 {'param': 'W', 'value': 1000} 0.902 0.136 0.984
+08:42:53 sensitivity gas PACT 2 {'param': 'R', 'value': 25} 0.919 0.131 0.991
+08:43:26 sensitivity gas PACT 2 {'param': 'R', 'value': 50} 0.923 0.12 0.983
+08:43:39 sensitivity gas PACT 2 {'param': 'R', 'value': 150} 0.91 0.128 0.965
+08:44:11 sensitivity gas PACT 2 {'param': 'alpha', 'value': 0.05} 0.96 0.111 0.982
+08:44:46 sensitivity gas PACT 2 {'param': 'alpha', 'value': 0.1} 0.923 0.12 0.983
+08:45:43 sensitivity gas PACT 2 {'param': 'alpha', 'value': 0.2} 0.838 0.2 0.991
+gas 1 {'Logistic regression': np.float64(0.625), 'SVM (RBF)': np.float64(0.532), 'k-NN': np.float64(0.526), 'Random forest': np.float64(0.502), 'MLP': np.float64(0.52), 'LightGBM': np.float64(0.478), 'Deep ensemble + TS': np.float64(0.484)}
+gas 2 {'Logistic regression': np.float64(0.613), 'SVM (RBF)': np.float64(0.513), 'k-NN': np.float64(0.513), 'Random forest': np.float64(0.469), 'MLP': np.float64(0.471), 'LightGBM': np.float64(0.456), 'Deep ensemble + TS': np.float64(0.453)}
+gas 3 {'Logistic regression': np.float64(0.61), 'SVM (RBF)': np.float64(0.508), 'k-NN': np.float64(0.5), 'Random forest': np.float64(0.476), 'MLP': np.float64(0.439), 'LightGBM': np.float64(0.459), 'Deep ensemble + TS': np.float64(0.463)}
+gas 4 {'Logistic regression': np.float64(0.594), 'SVM (RBF)': np.float64(0.481), 'k-NN': np.float64(0.502), 'Random forest': np.float64(0.446), 'MLP': np.float64(0.467), 'LightGBM': np.float64(0.435), 'Deep ensemble + TS': np.float64(0.451)}
+gas 5 {'Logistic regression': np.float64(0.604), 'SVM (RBF)': np.float64(0.513), 'k-NN': np.float64(0.525), 'Random forest': np.float64(0.468), 'MLP': np.float64(0.493), 'LightGBM': np.float64(0.461), 'Deep ensemble + TS': np.float64(0.484)}
+ferment 1 {'Logistic regression': np.float64(0.985), 'SVM (RBF)': np.float64(0.984), 'k-NN': np.float64(0.992), 'Random forest': np.float64(0.995), 'MLP': np.float64(0.993), 'LightGBM': np.float64(0.993), 'Deep ensemble + TS': np.float64(0.993)}
+ferment 2 {'Logistic regression': np.float64(0.985), 'SVM (RBF)': np.float64(0.985), 'k-NN': np.float64(0.992), 'Random forest': np.float64(0.995), 'MLP': np.float64(0.994), 'LightGBM': np.float64(0.995), 'Deep ensemble + TS': np.float64(0.994)}
+ferment 3 {'Logistic regression': np.float64(0.99), 'SVM (RBF)': np.float64(0.983), 'k-NN': np.float64(0.992), 'Random forest': np.float64(0.993), 'MLP': np.float64(0.993), 'LightGBM': np.float64(0.995), 'Deep ensemble + TS': np.float64(0.993)}
+ferment 4 {'Logistic regression': np.float64(0.991), 'SVM (RBF)': np.float64(0.984), 'k-NN': np.float64(0.993), 'Random forest': np.float64(0.994), 'MLP': np.float64(0.994), 'LightGBM': np.float64(0.994), 'Deep ensemble + TS': np.float64(0.993)}
+ferment 5 {'Logistic regression': np.float64(0.991), 'SVM (RBF)': np.float64(0.984), 'k-NN': np.float64(0.992), 'Random forest': np.float64(0.994), 'MLP': np.float64(0.993), 'LightGBM': np.float64(0.995), 'Deep ensemble + TS': np.float64(0.993)}

@@ -1,0 +1,11 @@
+{
+  "seeds": {"main": [1, 2, 3, 4, 5], "ablation": [1, 2, 3], "robust": {"home": [1, 2, 3], "gas": [1, 2]},
+            "poison": {"home": [1, 2, 3], "gas": [1, 2]}, "sensitivity": {"gas": [1, 2]}, "static": [1, 2, 3, 4, 5],
+            "explain": [1, 2, 3], "development_only": [0]},
+  "pact": {"alpha": 0.1, "eps": 0.05, "eps_max": 0.3, "cap": 0.6, "W": 300, "R": 50, "M": 1500, "init_w": 0.2, "w_max": 10,
+           "lam": 0.97, "chunk": 20, "n_estimators": 80, "num_leaves": 15, "learning_rate": 0.1, "colsample_bytree": 0.5},
+  "baselines": {"aci_gamma": 0.01, "nexcp_rho": 0.99, "pcontrol_eta": 0.05},
+  "sensitivity": {"eps": [0.01, 0.02, 0.05, 0.1, 0.2], "W": [100, 300, 1000], "R": [25, 50, 150], "alpha": [0.05, 0.1, 0.2]},
+  "stress": {"noise_sigma": [0.1, 0.3], "sensor_dropout_p": 0.3, "evasion_eps": [0.5, 1.0], "evasion_fraction": 0.3,
+             "poison_rate": [0.0, 0.1, 0.2, 0.3]}
+}

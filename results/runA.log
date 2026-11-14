@@ -1,0 +1,264 @@
+07:25:43 main home PACT 1 {} 0.858 0.406 0.891
+07:25:43 main home Split CP (static) 1 {} 0.656 0.0 0.614
+07:25:43 main home APS (static) 1 {} 0.894 0.0 0.614
+07:25:44 main home ACI 1 {} 0.923 0.419 0.856
+07:25:45 main home NexCP 1 {} 0.919 0.419 0.856
+07:25:46 main home Conformal P-control 1 {} 0.894 0.419 0.856
+07:25:46 main home Uncertainty sampling 1 {} 0.811 0.294 0.859
+07:25:47 main home Random audit 1 {} 0.902 0.419 0.856
+07:25:49 main home Full feedback (oracle) 1 {} 0.897 1.0 1.0
+07:25:50 main home PACT 2 {} 0.885 0.426 0.905
+07:25:50 main home Split CP (static) 2 {} 0.815 0.0 0.656
+07:25:50 main home APS (static) 2 {} 0.92 0.0 0.656
+07:25:50 main home ACI 2 {} 0.883 0.428 0.843
+07:25:51 main home NexCP 2 {} 0.877 0.428 0.843
+07:25:52 main home Conformal P-control 2 {} 0.887 0.428 0.843
+07:25:53 main home Uncertainty sampling 2 {} 0.836 0.296 0.874
+07:25:53 main home Random audit 2 {} 0.866 0.428 0.843
+07:25:55 main home Full feedback (oracle) 2 {} 0.905 1.0 1.0
+07:25:56 main home PACT 3 {} 0.893 0.558 0.914
+07:25:56 main home Split CP (static) 3 {} 0.639 0.0 0.601
+07:25:56 main home APS (static) 3 {} 0.919 0.0 0.601
+07:25:57 main home ACI 3 {} 0.91 0.528 0.889
+07:25:58 main home NexCP 3 {} 0.895 0.528 0.889
+07:25:59 main home Conformal P-control 3 {} 0.896 0.528 0.889
+07:26:00 main home Uncertainty sampling 3 {} 0.821 0.408 0.895
+07:26:01 main home Random audit 3 {} 0.882 0.528 0.889
+07:26:03 main home Full feedback (oracle) 3 {} 0.9 1.0 1.0
+07:26:03 main home PACT 4 {} 0.856 0.372 0.891
+07:26:03 main home Split CP (static) 4 {} 0.844 0.0 0.662
+07:26:04 main home APS (static) 4 {} 0.931 0.0 0.662
+07:26:04 main home ACI 4 {} 0.907 0.374 0.843
+07:26:05 main home NexCP 4 {} 0.911 0.374 0.843
+07:26:06 main home Conformal P-control 4 {} 0.912 0.374 0.843
+07:26:06 main home Uncertainty sampling 4 {} 0.827 0.253 0.845
+07:26:07 main home Random audit 4 {} 0.914 0.374 0.843
+07:26:09 main home Full feedback (oracle) 4 {} 0.916 1.0 1.0
+07:26:10 main home PACT 5 {} 0.922 0.505 0.944
+07:26:10 main home Split CP (static) 5 {} 0.824 0.0 0.65
+07:26:10 main home APS (static) 5 {} 0.916 0.0 0.65
+07:26:11 main home ACI 5 {} 0.909 0.491 0.877
+07:26:12 main home NexCP 5 {} 0.918 0.491 0.877
+07:26:12 main home Conformal P-control 5 {} 0.894 0.491 0.877
+07:26:13 main home Uncertainty sampling 5 {} 0.855 0.353 0.876
+07:26:14 main home Random audit 5 {} 0.914 0.491 0.877
+07:26:16 main home Full feedback (oracle) 5 {} 0.909 1.0 1.0
+07:26:16 main wine PACT 1 {} 0.902 0.104 0.971
+07:26:16 main wine Split CP (static) 1 {} 0.908 0.0 0.942
+07:26:16 main wine APS (static) 1 {} 0.855 0.0 0.942
+07:26:16 main wine ACI 1 {} 0.908 0.092 0.942
+07:26:16 main wine NexCP 1 {} 0.908 0.092 0.942
+07:26:16 main wine Conformal P-control 1 {} 0.746 0.092 0.942
+07:26:16 main wine Uncertainty sampling 1 {} 0.908 0.006 0.942
+07:26:16 main wine Random audit 1 {} 0.908 0.092 0.942
+07:26:16 main wine Full feedback (oracle) 1 {} 0.896 1.0 1.0
+07:26:16 main wine PACT 2 {} 0.893 0.137 0.994
+07:26:16 main wine Split CP (static) 2 {} 0.833 0.0 0.976
+07:26:16 main wine APS (static) 2 {} 0.988 0.0 0.976
+07:26:16 main wine ACI 2 {} 0.905 0.131 0.982
+07:26:16 main wine NexCP 2 {} 0.923 0.131 0.982
+07:26:16 main wine Conformal P-control 2 {} 0.905 0.131 0.982
+07:26:16 main wine Uncertainty sampling 2 {} 0.976 0.042 0.994
+07:26:16 main wine Random audit 2 {} 0.899 0.131 0.982
+07:26:16 main wine Full feedback (oracle) 2 {} 0.946 1.0 1.0
+07:26:16 main wine PACT 3 {} 0.888 0.207 0.97
+07:26:17 main wine Split CP (static) 3 {} 0.805 0.0 0.917
+07:26:17 main wine APS (static) 3 {} 0.941 0.0 0.917
+07:26:17 main wine ACI 3 {} 0.834 0.219 0.935
+07:26:17 main wine NexCP 3 {} 0.852 0.219 0.935
+07:26:17 main wine Conformal P-control 3 {} 0.651 0.219 0.935
+07:26:17 main wine Uncertainty sampling 3 {} 0.888 0.047 0.941
+07:26:17 main wine Random audit 3 {} 0.822 0.219 0.935
+07:26:17 main wine Full feedback (oracle) 3 {} 0.935 1.0 1.0
+07:26:17 main wine PACT 4 {} 0.965 0.175 0.988
+07:26:17 main wine Split CP (static) 4 {} 0.906 0.0 0.936
+07:26:17 main wine APS (static) 4 {} 0.965 0.0 0.936
+07:26:17 main wine ACI 4 {} 0.936 0.216 0.959
+07:26:17 main wine NexCP 4 {} 0.936 0.216 0.959
+07:26:17 main wine Conformal P-control 4 {} 0.912 0.216 0.959
+07:26:17 main wine Uncertainty sampling 4 {} 0.93 0.041 0.947
+07:26:17 main wine Random audit 4 {} 0.93 0.216 0.959
+07:26:17 main wine Full feedback (oracle) 4 {} 0.942 1.0 1.0
+07:26:17 main wine PACT 5 {} 0.848 0.211 1.0
+07:26:17 main wine Split CP (static) 5 {} 0.871 0.0 1.0
+07:26:17 main wine APS (static) 5 {} 0.825 0.0 1.0
+07:26:17 main wine ACI 5 {} 0.936 0.216 1.0
+07:26:17 main wine NexCP 5 {} 0.936 0.216 1.0
+07:26:17 main wine Conformal P-control 5 {} 0.854 0.216 1.0
+07:26:17 main wine Uncertainty sampling 5 {} 0.901 0.018 1.0
+07:26:17 main wine Random audit 5 {} 0.906 0.216 1.0
+07:26:18 main wine Full feedback (oracle) 5 {} 0.912 1.0 1.0
+07:26:18 main water PACT 1 {} 0.873 0.461 0.662
+07:26:18 main water Split CP (static) 1 {} 0.897 0.0 0.202
+07:26:18 main water APS (static) 1 {} 0.987 0.0 0.202
+07:26:18 main water ACI 1 {} 0.891 0.475 0.844
+07:26:18 main water NexCP 1 {} 0.894 0.475 0.844
+07:26:18 main water Conformal P-control 1 {} 0.839 0.475 0.844
+07:26:18 main water Uncertainty sampling 1 {} 0.706 0.294 0.707
+07:26:18 main water Random audit 1 {} 0.911 0.475 0.844
+07:26:19 main water Full feedback (oracle) 1 {} 0.857 1.0 1.0
+07:26:19 main water PACT 2 {} 0.894 0.448 0.832
+07:26:19 main water Split CP (static) 2 {} 0.856 0.0 0.226
+07:26:19 main water APS (static) 2 {} 0.979 0.0 0.226
+07:26:19 main water ACI 2 {} 0.911 0.451 0.813
+07:26:19 main water NexCP 2 {} 0.874 0.451 0.813
+07:26:19 main water Conformal P-control 2 {} 0.857 0.451 0.813
+07:26:19 main water Uncertainty sampling 2 {} 0.755 0.147 0.463
+07:26:19 main water Random audit 2 {} 0.881 0.451 0.813
+07:26:20 main water Full feedback (oracle) 2 {} 0.847 1.0 1.0
+07:26:20 main water PACT 3 {} 0.822 0.338 0.694
+07:26:20 main water Split CP (static) 3 {} 0.9 0.0 0.25
+07:26:20 main water APS (static) 3 {} 0.999 0.0 0.25
+07:26:20 main water ACI 3 {} 0.902 0.317 0.757
+07:26:20 main water NexCP 3 {} 0.887 0.317 0.757
+07:26:20 main water Conformal P-control 3 {} 0.826 0.317 0.757
+07:26:20 main water Uncertainty sampling 3 {} 0.741 0.076 0.714
+07:26:20 main water Random audit 3 {} 0.867 0.317 0.757
+07:26:21 main water Full feedback (oracle) 3 {} 0.878 1.0 1.0
+07:26:21 main water PACT 4 {} 0.904 0.482 0.9
+07:26:21 main water Split CP (static) 4 {} 0.853 0.0 0.54
+07:26:21 main water APS (static) 4 {} 0.925 0.0 0.54
+07:26:21 main water ACI 4 {} 0.894 0.485 0.881
+07:26:21 main water NexCP 4 {} 0.881 0.485 0.881
+07:26:21 main water Conformal P-control 4 {} 0.844 0.485 0.881
+07:26:21 main water Uncertainty sampling 4 {} 0.767 0.327 0.726
+07:26:22 main water Random audit 4 {} 0.932 0.485 0.881
+07:26:22 main water Full feedback (oracle) 4 {} 0.842 1.0 1.0
+07:26:22 main water PACT 5 {} 0.877 0.492 0.846
+07:26:22 main water Split CP (static) 5 {} 0.893 0.0 0.252
+07:26:22 main water APS (static) 5 {} 0.967 0.0 0.252
+07:26:22 main water ACI 5 {} 0.909 0.496 0.873
+07:26:22 main water NexCP 5 {} 0.925 0.496 0.873
+07:26:23 main water Conformal P-control 5 {} 0.866 0.496 0.873
+07:26:23 main water Uncertainty sampling 5 {} 0.737 0.327 0.76
+07:26:23 main water Random audit 5 {} 0.935 0.496 0.873
+07:26:23 main water Full feedback (oracle) 5 {} 0.881 1.0 1.0
+07:26:57 main gas PACT 1 {} 0.916 0.126 0.982
+07:26:58 main gas Split CP (static) 1 {} 0.236 0.0 0.478
+07:27:00 main gas APS (static) 1 {} 0.893 0.0 0.478
+07:27:32 main gas ACI 1 {} 0.906 0.129 0.922
+07:28:05 main gas NexCP 1 {} 0.912 0.129 0.922
+07:28:38 main gas Conformal P-control 1 {} 0.902 0.129 0.922
+07:29:05 main gas Uncertainty sampling 1 {} 0.958 0.109 0.976
+07:29:38 main gas Random audit 1 {} 0.895 0.129 0.922
+07:33:34 main gas Full feedback (oracle) 1 {} 0.903 1.0 1.0
+07:34:08 main gas PACT 2 {} 0.923 0.12 0.983
+07:34:10 main gas Split CP (static) 2 {} 0.166 0.0 0.456
+07:34:11 main gas APS (static) 2 {} 0.915 0.0 0.456
+07:34:39 main gas ACI 2 {} 0.903 0.116 0.907
+07:35:11 main gas NexCP 2 {} 0.896 0.116 0.907
+07:35:39 main gas Conformal P-control 2 {} 0.884 0.116 0.907
+07:36:11 main gas Uncertainty sampling 2 {} 0.95 0.103 0.971
+07:36:56 main gas Random audit 2 {} 0.875 0.116 0.907
+07:41:00 main gas Full feedback (oracle) 2 {} 0.901 1.0 1.0
+07:41:34 main gas PACT 3 {} 0.916 0.132 0.988
+07:41:35 main gas Split CP (static) 3 {} 0.159 0.0 0.449
+07:41:36 main gas APS (static) 3 {} 0.89 0.0 0.449
+07:42:09 main gas ACI 3 {} 0.903 0.133 0.919
+07:42:42 main gas NexCP 3 {} 0.908 0.133 0.919
+07:54:08 main gas Conformal P-control 3 {} 0.899 0.133 0.919
+07:54:40 main gas Uncertainty sampling 3 {} 0.959 0.116 0.978
+07:55:15 main gas Random audit 3 {} 0.879 0.133 0.919
+07:59:22 main gas Full feedback (oracle) 3 {} 0.902 1.0 1.0
+08:00:01 main gas PACT 4 {} 0.912 0.142 0.988
+08:00:03 main gas Split CP (static) 4 {} 0.207 0.0 0.412
+08:00:04 main gas APS (static) 4 {} 0.893 0.0 0.412
+08:00:43 main gas ACI 4 {} 0.912 0.144 0.924
+08:01:23 main gas NexCP 4 {} 0.911 0.144 0.924
+08:02:01 main gas Conformal P-control 4 {} 0.902 0.144 0.924
+08:02:33 main gas Uncertainty sampling 4 {} 0.965 0.124 0.982
+08:03:12 main gas Random audit 4 {} 0.89 0.144 0.924
+08:07:09 main gas Full feedback (oracle) 4 {} 0.9 1.0 1.0
+08:07:47 main gas PACT 5 {} 0.915 0.135 0.989
+08:07:49 main gas Split CP (static) 5 {} 0.155 0.0 0.452
+08:07:50 main gas APS (static) 5 {} 0.892 0.0 0.452
+08:08:28 main gas ACI 5 {} 0.902 0.136 0.925
+08:09:05 main gas NexCP 5 {} 0.898 0.136 0.925
+08:09:41 main gas Conformal P-control 5 {} 0.893 0.136 0.925
+08:10:10 main gas Uncertainty sampling 5 {} 0.953 0.117 0.976
+08:10:49 main gas Random audit 5 {} 0.869 0.136 0.925
+08:14:41 main gas Full feedback (oracle) 5 {} 0.9 1.0 1.0
+08:15:16 ablation gas PACT 1 {} 0.916 0.126 0.982
+08:15:41 ablation gas w/o propensity weighting 1 {} 0.962 0.098 0.974
+08:15:57 ablation gas w/o random audits 1 {} 0.937 0.06 0.947
+08:15:59 ablation gas w/o model refresh 1 {} 0.89 0.572 0.862
+08:16:55 ablation gas w/o recalibration 1 {} 0.837 0.204 0.998
+08:17:36 ablation gas w/o recency window 1 {} 0.902 0.146 0.988
+08:18:10 ablation gas w/o coverage-debt controller 1 {} 0.911 0.125 0.989
+08:18:44 ablation gas w/o targeted escalation 1 {} 0.895 0.129 0.922
+08:19:17 ablation gas PACT 2 {} 0.923 0.12 0.983
+08:19:41 ablation gas w/o propensity weighting 2 {} 0.96 0.093 0.972
+08:19:58 ablation gas w/o random audits 2 {} 0.921 0.062 0.932
+08:19:59 ablation gas w/o model refresh 2 {} 0.867 0.569 0.821
+08:21:16 ablation gas w/o recalibration 2 {} 0.75 0.285 0.998
+08:21:55 ablation gas w/o recency window 2 {} 0.899 0.14 0.983
+08:22:29 ablation gas w/o coverage-debt controller 2 {} 0.915 0.125 0.99
+08:22:57 ablation gas w/o targeted escalation 2 {} 0.875 0.116 0.907
+08:23:34 ablation gas PACT 3 {} 0.916 0.132 0.988
+08:24:00 ablation gas w/o propensity weighting 3 {} 0.958 0.093 0.969
+08:24:20 ablation gas w/o random audits 3 {} 0.955 0.069 0.966
+08:24:22 ablation gas w/o model refresh 3 {} 0.882 0.57 0.825
+08:25:36 ablation gas w/o recalibration 3 {} 0.774 0.263 0.999
+08:26:15 ablation gas w/o recency window 3 {} 0.905 0.149 0.991
+08:26:49 ablation gas w/o coverage-debt controller 3 {} 0.911 0.124 0.986
+08:27:23 ablation gas w/o targeted escalation 3 {} 0.879 0.133 0.919
+08:27:26 poison home PACT 1 {'poison': 0.0} 0.858 0.406 0.891
+08:27:27 poison home PACT + screening 1 {'poison': 0.0} 0.869 0.443 0.907
+08:27:28 poison home Random audit 1 {'poison': 0.0} 0.902 0.419 0.856
+08:27:29 poison home PACT 1 {'poison': 0.1} 0.89 0.582 0.919
+08:27:30 poison home PACT + screening 1 {'poison': 0.1} 0.86 0.382 0.895
+08:27:31 poison home Random audit 1 {'poison': 0.1} 0.949 0.564 0.895
+08:27:32 poison home PACT 1 {'poison': 0.2} 0.971 0.764 0.988
+08:27:34 poison home PACT + screening 1 {'poison': 0.2} 0.927 0.654 0.955
+08:27:35 poison home Random audit 1 {'poison': 0.2} 0.965 0.762 0.942
+08:27:37 poison home PACT 1 {'poison': 0.3} 0.97 0.814 0.987
+08:27:38 poison home PACT + screening 1 {'poison': 0.3} 0.954 0.794 0.98
+08:27:40 poison home Random audit 1 {'poison': 0.3} 0.984 0.824 0.952
+08:27:40 poison home PACT 2 {'poison': 0.0} 0.885 0.426 0.905
+08:27:41 poison home PACT + screening 2 {'poison': 0.0} 0.888 0.401 0.907
+08:27:42 poison home Random audit 2 {'poison': 0.0} 0.866 0.428 0.843
+08:27:43 poison home PACT 2 {'poison': 0.1} 0.971 0.728 0.991
+08:27:44 poison home PACT + screening 2 {'poison': 0.1} 0.893 0.483 0.931
+08:27:46 poison home Random audit 2 {'poison': 0.1} 0.949 0.738 0.926
+08:27:47 poison home PACT 2 {'poison': 0.2} 0.963 0.796 0.984
+08:27:48 poison home PACT + screening 2 {'poison': 0.2} 0.913 0.568 0.936
+08:27:50 poison home Random audit 2 {'poison': 0.2} 0.977 0.793 0.944
+08:27:51 poison home PACT 2 {'poison': 0.3} 0.968 0.822 0.983
+08:27:53 poison home PACT + screening 2 {'poison': 0.3} 0.953 0.659 0.976
+08:27:54 poison home Random audit 2 {'poison': 0.3} 0.974 0.821 0.952
+08:27:55 poison home PACT 3 {'poison': 0.0} 0.893 0.558 0.914
+08:27:56 poison home PACT + screening 3 {'poison': 0.0} 0.89 0.524 0.913
+08:27:57 poison home Random audit 3 {'poison': 0.0} 0.882 0.528 0.889
+08:27:59 poison home PACT 3 {'poison': 0.1} 0.927 0.675 0.951
+08:27:59 poison home PACT + screening 3 {'poison': 0.1} 0.915 0.493 0.94
+08:28:01 poison home Random audit 3 {'poison': 0.1} 0.935 0.644 0.913
+08:28:02 poison home PACT 3 {'poison': 0.2} 0.947 0.741 0.965
+08:28:03 poison home PACT + screening 3 {'poison': 0.2} 0.944 0.671 0.968
+08:28:05 poison home Random audit 3 {'poison': 0.2} 0.96 0.728 0.933
+08:28:06 poison home PACT 3 {'poison': 0.3} 0.957 0.858 0.979
+08:28:08 poison home PACT + screening 3 {'poison': 0.3} 0.963 0.827 0.981
+08:28:09 poison home Random audit 3 {'poison': 0.3} 0.977 0.855 0.949
+08:28:44 poison gas PACT 1 {'poison': 0.0} 0.916 0.126 0.982
+08:29:23 poison gas PACT + screening 1 {'poison': 0.0} 0.905 0.139 0.985
+08:29:56 poison gas Random audit 1 {'poison': 0.0} 0.895 0.129 0.922
+08:31:24 poison gas PACT 1 {'poison': 0.1} 0.965 0.322 0.989
+08:31:59 poison gas PACT + screening 1 {'poison': 0.1} 0.918 0.143 0.98
+08:33:31 poison gas Random audit 1 {'poison': 0.1} 0.982 0.319 0.964
+08:36:23 poison gas PACT 1 {'poison': 0.2} 0.991 0.632 0.994
+08:37:14 poison gas PACT + screening 1 {'poison': 0.2} 0.951 0.21 0.988
+08:40:00 poison gas Random audit 1 {'poison': 0.2} 0.994 0.628 0.98
+08:42:42 poison gas PACT 1 {'poison': 0.3} 0.995 0.638 0.969
+08:44:10 poison gas PACT + screening 1 {'poison': 0.3} 0.959 0.345 0.988
+08:46:55 poison gas Random audit 1 {'poison': 0.3} 0.995 0.634 0.966
+08:47:29 poison gas PACT 2 {'poison': 0.0} 0.923 0.12 0.983
+08:48:05 poison gas PACT + screening 2 {'poison': 0.0} 0.918 0.13 0.981
+08:48:35 poison gas Random audit 2 {'poison': 0.0} 0.875 0.116 0.907
+08:50:15 poison gas PACT 2 {'poison': 0.1} 0.971 0.328 0.99
+08:50:58 poison gas PACT + screening 2 {'poison': 0.1} 0.924 0.154 0.985
+08:52:33 poison gas Random audit 2 {'poison': 0.1} 0.982 0.325 0.959
+08:55:30 poison gas PACT 2 {'poison': 0.2} 0.994 0.633 0.993
+08:56:19 poison gas PACT + screening 2 {'poison': 0.2} 0.934 0.188 0.984
+08:59:09 poison gas Random audit 2 {'poison': 0.2} 0.994 0.633 0.98
+09:01:49 poison gas PACT 2 {'poison': 0.3} 0.997 0.643 0.972
+09:03:16 poison gas PACT + screening 2 {'poison': 0.3} 0.977 0.376 0.993
+09:06:00 poison gas Random audit 2 {'poison': 0.3} 0.995 0.64 0.968
